@@ -6,9 +6,7 @@ Trying to create the list of papers for understanding the workings behind the de
 Paper Link: https://arxiv.org/pdf/1703.01365.pdf        
 Code bases:
 a) https://github.com/ankurtaly/Integrated-Gradients
-
 b) https://github.com/hiranumn/IntegratedGradients
-
 c) https://github.com/PAIR-code/saliency
 
 ## A Unified Approach to Interpreting Model Predictions
@@ -31,4 +29,9 @@ b) https://github.com/jacobgil/keras-grad-cam
 Paper Link: https://arxiv.org/abs/1602.04938
 Code bases:
 a) https://github.com/marcotcr/lime
+
+## Towards better understanding of gradient-based attribution methods for Deep Neural Networks (DeepExplain)
+Paper Link: https://arxiv.org/abs/1711.06104
+Code bases:
+a) https://github.com/marcoancona/DeepExplain
 
