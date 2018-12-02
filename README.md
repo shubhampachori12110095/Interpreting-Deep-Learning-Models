@@ -47,3 +47,13 @@ a) https://github.com/marcoancona/DeepExplain
 ## The Building Blocks of Interpretability
 
 Link: https://distill.pub/2018/building-blocks/
+
+
+## Deep Learning with Electronic Health Record (EHR) Systems
+
+Link: https://goku.me/blog/EHR
+
+## Interpretability via attentional and memory-based interfaces, using TensorFlow
+
+Link: https://www.oreilly.com/ideas/interpretability-via-attentional-and-memory-based-interfaces-using-tensorflow
+
